@@ -45,6 +45,8 @@ It accepts 3 parameters
 * translation text
 * plural indicator (optional)
 
+For example,
+
     home,Home
 
 where `home` is the key while `Home` is the translation text
@@ -108,6 +110,8 @@ Webpage for English (default)
     http://localhost:8888/en_US/about-us
 
 ![Example of web page output in English](tornado-en.png)
+
+Footer
 
 ![Footer](tornado-footer.png)
 
